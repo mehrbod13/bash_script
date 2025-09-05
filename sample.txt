@@ -1,0 +1,20 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1-202-555-0173
+Website: https://johndoe.dev
+
+Jane Smith
+Email: jane_smith123@work.org
+Phone: (415) 555-2671
+Twitter: @jane_smith
+
+Mike Johnson
+Email: mike99@gmail.com
+Phone: 555-876-5432
+GitHub: github.com/mikej
+
+Random notes:
+- This is just some filler text
+- Call me maybe? 123-4567
+- Special chars: #!@$%^&*
+- Another email: test.email+regex@my-site.co.uk
